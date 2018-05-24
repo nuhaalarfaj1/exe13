@@ -1,0 +1,11 @@
+body{
+    background-repeat: no-repeat, repeat;
+    background-size:1300px;}
+   button{
+       border-bottom-color: #2016a3;
+       background-color:skyblue;
+       border: 25px;
+   }
+   input{
+       background-color:yellow;
+   }
